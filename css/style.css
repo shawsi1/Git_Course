@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #ddd;
+    color: maroon;
+    text-size-adjust: 9;
+}
+
+img {
+    margin: 15px;
+    border-radius: 10%;
+}
+
+section {
+    margin: 20px;
+}
